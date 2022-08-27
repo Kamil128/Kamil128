@@ -1,4 +1,4 @@
-### Hi, I'm Kamil [![website](./linkedin.svg)](https://www.linkedin.com/in/kamil-pabijan-data-science)
+### Hi, I'm Kamil [![website](./linkedin.svg =100x20)](https://www.linkedin.com/in/kamil-pabijan-data-science)
 
 Data Science | Machine Learning | MLOps
 
